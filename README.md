@@ -30,31 +30,31 @@ The following steps were followed in this project:
 •	-17.62% Net Profit Margin  
 •	₹653M Net Loss  
 •	81.17% Forecast Accuracy  
-________________________________________
+
 # Key Insights  
 •	APAC contributes ~49% of total revenue (₹1.83bn).  
 •	Notebook segment drives ~42% of total sales (₹1.56bn).  
 •	North America shows highest margin decline (-22.8%).  
 •	High operating expenses (₹2.05bn) are primary cause of net loss.  
 •	Top 5 customers contribute 34% of total revenue (concentration risk).  
-________________________________________
+
 # Tools & Technologies  
 •	Power BI  
 •	DAX  
 •	SQL  
 •	Excel  
 •	DAX Studio (Performance Optimization)  
-________________________________________
+
 # Dashboard Views  
 •	Finance View (P&L Analysis)  
 •	Sales View (Customer & Product Analysis)  
 •	Market View (Regional & Market Share Analysis)  
 •	Supply Chain View (Forecast & Inventory Analysis)  
 •	Executive View (Strategic Summary)  
-________________________________________
+
 # Business Recommendation  
 The company demonstrates strong revenue performance but requires cost optimization strategies to improve profitability. Strategic focus on high-margin regions and improved forecasting accuracy can significantly enhance operational efficiency.  
-________________________________________
+
 # Outcome  
 This dashboard enables leadership to monitor financial health, identify profitability gaps, and make data-driven decisions across business functions.  
 
